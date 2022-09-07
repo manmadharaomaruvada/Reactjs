@@ -1,0 +1,29 @@
+{
+  "product": [
+    {
+      "id": 111,
+      "pname": "soap",
+      "price": "50"
+    },
+    {
+      "id": 222,
+      "pname": "rice",
+      "price": "59"
+    },
+    {
+      "id": 555,
+      "pname": "ball",
+      "price": "100"
+    },
+    {
+      "id": 666,
+      "pname": "lux",
+      "price": "55"
+    },
+    {
+      "id": 777,
+      "pname": "pad",
+      "price": "70"
+    }
+  ]
+}
